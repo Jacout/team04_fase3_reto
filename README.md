@@ -1,2 +1,2 @@
-# Analisis_equipo5
+# teamXX_fase3_reto
 Analisis de Binario educativo
