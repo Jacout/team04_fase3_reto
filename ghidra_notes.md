@@ -1,0 +1,3 @@
+# Ghidra notas
+Se localizo la función main y analizamos el código en ensamblador para ver cómo estaba estructurada la lógica. Aquí identificamos el truco del retardo (Sleep) y cómo el programa preparaba los nombres de los archivos en la memoria antes de crearlos.
+Durante la inspeccion y rearmado del codigo se percato que utiliza API de windows para realiza la ejecucción de sentencias que pueden realizar diferentes tipos de malware
